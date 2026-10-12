@@ -8,7 +8,7 @@ export function Hero() {
       <div className="container hero-inner">
         <div className="hero-copy">
           <p className="eyebrow">
-            <span /> TES IDÉES MÉRITENT DE PRENDRE FORME
+            <span /> on essaie quelque chose
           </p>
           <h1>
             PASSE DE
